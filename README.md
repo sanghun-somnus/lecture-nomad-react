@@ -4,3 +4,4 @@
 
 - [useInput](/useInput.js)
 - [useTabs](/useTabs.js)
+- [useTitle](/useTitle.js)
