@@ -3,3 +3,4 @@
 ## React Hooks
 
 - [useInput](/useInput.js)
+- [useTabs](/useTabs.js)
