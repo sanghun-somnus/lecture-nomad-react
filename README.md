@@ -6,3 +6,4 @@
 - [useTabs](/useTabs.js)
 - [useTitle](/useTitle.js)
 - [useClick](/useClick.js)
+- [useConfirm](/useConfirm.js)
